@@ -16,6 +16,7 @@ To, co odróżnia współczesne komputery od wszystkich innych maszyn, to możli
 
 W większości przypadków instrukcje, które komputer wykonuje, są bardzo proste – dodawanie dwóch liczb, przeniesienie danych z jednego miejsca w inne, wyświetlenie komunikatu itd. Instrukcje te odczytywane są z pamięci komputera i zazwyczaj wykonywane są w tej samej kolejności, co w pamięci. Istnieją jednak instrukcje umożliwiające *„skok”* w pewne określone miejsce programu i wykonanie go z tego miejsca. Ponadto instrukcje skoku mogą być wykonane warunkowo, co umożliwia wykonanie różnych zestawów instrukcji w zależności od uzyskanych wcześniej wyników obliczeń. Ponadto istnieją instrukcje umożliwiające tworzenie podprogramów.
 
-Utworzono na podstawie artykułu [Komputer](https://pl.wikipedia.org/wiki/Komputer) udostępnionego na licencji [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.pl)
 
-[Kod źródłowy strony](https://github.com/achook/page_uno)
+* * *
+
+Utworzono na podstawie artykułu [Komputer](https://pl.wikipedia.org/wiki/Komputer) udostępnionego na licencji [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.pl)
