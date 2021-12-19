@@ -1,6 +1,3 @@
-# Szachy
-by Bardzo Dobry Skład Matematyków
-
 ![Szachy](https://ecsmedia.pl/c/sunrise-chess-games-gra-logiczna-szachy-zamkowe-b-iext59424139.jpg)
 
 ## Co to ma być?
